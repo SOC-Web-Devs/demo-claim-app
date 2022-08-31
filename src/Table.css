@@ -1,0 +1,12 @@
+th{
+    padding: 10px 10px;
+    color: #2A2B31;
+}
+td{
+    padding: 10px 20px;
+    background-color: #2A2B31;
+    color: white;
+}
+tr{
+    margin: 30px;
+}
